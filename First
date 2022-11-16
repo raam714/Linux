@@ -1,0 +1,25 @@
+ CTRL + Alt + T will open trerminal or Go to the Dash and type terminal
+ 
+ Terminal open like below
+ ram@Ram-pc:~$
+ <Username>@<ComputerName>(:)Separator ~ Home Directory $ Regualr User   If # Root User
+ 
+ Command: 
+1. Pwd - Present working directory  e.g:  /home/ram
+ 
+ Change Directories
+ 
+2. cd - change directories
+ 
+                 cd ~ come to home directory
+                 cd .. move one step above
+                 cd / come to root directory
+ 
+                 Absolute Path cd /home/ram/downloads
+                 Relative Path cd downloads
+   Listing Files
+  3. ls        shows the files /directories in your current directory.
+                ls shows the files /directories in your current directory.  eg. Desktop Documents Downloads Music Picture
+               ‘ls -R’ to shows all the files not only in directories but also subdirectories
+               
+
